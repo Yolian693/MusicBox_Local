@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .vscode/
 music_files/*.mp3
+*.log
